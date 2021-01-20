@@ -1,0 +1,25 @@
+{
+  "name": "lizmap-wps-web-client-module",
+  "version": "1.0.0",
+  "description": "Lizmap WPS Web Client is a Lizmap module to add a WPS panel into [Lizmap Web Client](https://github.com/3liz/lizmap-web-client/).",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3liz/lizmap-wps-web-client-module.git"
+  },
+  "author": "3liz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3liz/lizmap-wps-web-client-module/issues"
+  },
+  "homepage": "https://github.com/3liz/lizmap-wps-web-client-module#readme",
+  "dependencies": {
+    "eslint": "^7.18.0"
+  }
+}

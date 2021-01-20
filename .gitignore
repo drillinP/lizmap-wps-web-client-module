@@ -19,3 +19,6 @@ tests/.env
 # vscode
 .vscode/
 
+# Node, NPM
+node_modules
+
