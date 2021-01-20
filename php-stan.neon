@@ -1,0 +1,8 @@
+parameters:
+  scanDirectories:
+    - wps/
+  level: 0
+  ignoreErrors:
+  paths:
+    - wps/
+  
