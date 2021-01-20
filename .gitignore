@@ -13,3 +13,9 @@ tests/lizmap/var
 tests/lizmap/wps-data
 tests/.env
 
+# PHP
+.php_cs.cache
+
+# vscode
+.vscode/
+
